@@ -3,17 +3,9 @@
 
 ```python
 # some python code for reference..
-class YouGoPydantic(BaseModel):
-    you: str
-    go: str
-```
+project run from main.py / main.ipynb
 
-## 🧰 Features
-- Feature 1
-- Feature 2
-  - Subfeature 1
-  - Subfeature 2
-- Feature 3
+
 
 ## 💻 Usage
 1. Clone this repository to your local machine.
